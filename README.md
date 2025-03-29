@@ -1,0 +1,5 @@
+The project is on making a smart waste management system by using two smart dustbins which have various sensors and communication modules. It will help in improving the process of collection of waste by ensuring its waste bins are full and informing immediately besides segregating it as wet and dry. Our Project provides two ultrasonic sensors that will check fill level of both bin that is Wet bin and dry bin,a LCD to display output, GSM module for message transmission, GPS for location, Servo motor for moving the lid, and also sensors of Moisture, which will predict the type of waste and additionally another ultrasonic sensor to detect garbage near Soil Moisture Sensor . 
+Results: The findings show that this system is able to manage the segregation efficiently with ultrasonic sensors detecting the waste and level of waste in the bin with 99.2% accuracy. 
+(Formula Used: Accuracy=(AverageDistanceRecorded/ActualDistance)*100)
+
+Some Important Key Words: IoT ,Ultrasonic Sensor,Soil Moisture Sensor, Servo Motor, Arduino
